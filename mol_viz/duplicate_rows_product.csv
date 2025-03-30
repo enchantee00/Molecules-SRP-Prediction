@@ -1,0 +1,21 @@
+IUPAC Name,SMILE,SRP (V),solvent,type
+2-sulfanylethanol,C(CS)O,1.726,water,neutral
+2-sulfanylethanol,C(CS)O,0.75,water,neutral
+"1,10-phenanthroline",C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1,-0.85,water,neutral
+"1,10-phenanthroline",C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1,-0.47,water,neutral
+,C1=CC3=C(C=C1)N(C2=C(C=CC=C2)S3)CCC[S]([O-])(=O)=O,0.834,water,neutral
+,C1=CC3=C(C=C1)N(C2=C(C=CC=C2)S3)CCC[S]([O-])(=O)=O,0.834,water,neutral
+,C1=CC=C(C=C1)O,0.77,water,neutral
+phenol,C1=CC=C(C=C1)O,>0.500,water,neutral
+2-pyridin-2-ylpyridine,C1=CC=NC(=C1)C2=CC=CC=N2,-0.5,water,neutral
+2-pyridin-2-ylpyridine,C1=CC=NC(=C1)C2=CC=CC=N2,-0.97,water,neutral
+2-(furan-2-yl)-3-(5-nitrofuran-2-yl)prop-2-enamide,C1=COC(=C1)C(=CC2=CC=C(O2)[N+](=O)[O-])C(=O)N,-0.242,water,neutral
+2-(furan-2-yl)-3-(5-nitrofuran-2-yl)prop-2-enamide,C1=COC(=C1)C(=CC2=CC=C(O2)[N+](=O)[O-])C(=O)N,-0.276,water,neutral
+2-[4-[1-(2-amino-2-oxoethyl)pyridin-1-ium-4-yl]pyridin-1-ium-1-yl]acetamide,C1=C[N+](=CC=C1C2=CC=[N+](C=C2)CC(=O)N)CC(=O)N,-0.296,water,neutral
+2-[4-[1-(2-amino-2-oxoethyl)pyridin-1-ium-4-yl]pyridin-1-ium-1-yl]acetamide,C1=C[N+](=CC=C1C2=CC=[N+](C=C2)CC(=O)N)CC(=O)N,-0.371,water,neutral
+1-prop-2-enyl-4-(1-prop-2-enylpyridin-1-ium-4-yl)pyridin-1-ium,C=CC[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)CC=C,-0.408,water,neutral
+1-prop-2-enyl-4-(1-prop-2-enylpyridin-1-ium-4-yl)pyridin-1-ium,C=CC[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)CC=C,-0.435,water,neutral
+1-(diethylamino)-3-(2-nitroimidazol-1-yl)propan-2-ol,CCN(CC)CC(CN1C=CN=C1[N+](=O)[O-])O,-0.352,water,neutral
+1-(diethylamino)-3-(2-nitroimidazol-1-yl)propan-2-ol,CCN(CC)CC(CN1C=CN=C1[N+](=O)[O-])O,-0.349,water,neutral
+,N#CC(C1=CC=CC=C1)[N+]2=CC=C(C=C2)C3=CC=[N+](C=C3)C(C#N)C4=CC=CC=C4,-0.073,water,neutral
+,N#CC(C1=CC=CC=C1)[N+]2=CC=C(C=C2)C3=CC=[N+](C=C3)C(C#N)C4=CC=CC=C4,-0.073,water,neutral

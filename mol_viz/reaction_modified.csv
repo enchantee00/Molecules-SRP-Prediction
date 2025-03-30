@@ -1,0 +1,26 @@
+IUPAC Name,SMILE,solvent,type,SRP
+,C1=C[CH]C=C1.C1=C[CH]C=C1.[Fe],MeCN,neutral,0.16
+,C1=C[CH]C=C1.C1=C[CH]C=C1.[Fe],CH2Cl2,neutral,0.27
+iron(2+);2-pyridin-2-ylpyridine,C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Fe+2],MeCN,neutral,1.41
+"cyclopenta-1,3-diene;cyclopentane;iron",[CH-]1[CH-][CH-][CH-][CH-]1.[CH-]1C=CC=C1.[Fe],-,neutral,0.75
+"1,10-phenanthroline;ruthenium(2+)",C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.[Ru+2],MeCN,neutral,1.62
+thianthrene,C1=CC=C2C(=C1)SC3=CC=CC=C3S2,MeCN,neutral,1.61
+iridium(3+);2-phenylpyridine,C1=CC=C([C-]=C1)C2=CC=CC=N2.C1=CC=C([C-]=C1)C2=CC=CC=N2.C1=CC=C([C-]=C1)C2=CC=CC=N2.[Ir+3],MeCN,neutral,2.05
+2-pyrazin-2-ylpyrazine;ruthenium,C1=CN=C(C=N1)C2=NC=CN=C2.C1=CN=C(C=N1)C2=NC=CN=C2.C1=CN=C(C=N1)C2=NC=CN=C2.[Ru],MeCN,neutral,2.65
+2-pyridin-2-ylpyridine;ruthenium(2+),C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Ru+2],MeCN,neutral,2.55
+azane;cobalt(2+),N.N.N.N.N.N.[Co+2],H2O,neutral,0.108
+iron(2+);hexacyanide,[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Fe+2],H2O,neutral,0.358
+iron(2+);2-pyridin-2-ylpyridine,C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Fe+2],H2O,neutral,0.78
+iron(2+);2-pyridin-2-ylpyridine,C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Fe+2],H2O,neutral,1.03
+"iron(2+);1,10-phenanthroline",C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.[Fe+2],H2O,neutral,1.147
+"iron(2+);1,10-phenanthroline",C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.[Fe+2],1 M H2SO4,neutral,1.06
+"cyclopenta-1,3-diene;iron(2+)",[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2],H2O,neutral,0.4
+osmium(2+);2-pyridin-2-ylpyridine,C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Os+2],H2O,neutral,0.81
+osmium(2+);2-pyridin-2-ylpyridine,C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Os+2],H2O,neutral,0.8
+2-pyridin-2-ylpyridine;ruthenium,C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Ru+2],H2O,neutral,1.24
+azane;ruthenium(8+),N.N.N.N.N.N.[Ru+8],H2O,neutral,0.1
+"1,10-phenanthroline;ruthenium(2+)",C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.[Ru+2],H2O,neutral,0.21
+ruthenium(2+);hexacyanide,[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Ru+2],H2O,neutral,0.86
+"vanadium(2+);1,10-Phenanthroline",C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.[V+2],H2O,neutral,0.14
+dioxido(dioxo)ruthenium,[O-][Ru](=O)(=O)[O-],H2O,neutral,0.59
+hexachloroiridium(3-),Cl[Ir-3](Cl)(Cl)(Cl)(Cl)Cl,H2O,neutral,0.8665

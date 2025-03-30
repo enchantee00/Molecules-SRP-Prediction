@@ -1,0 +1,11 @@
+count,IUPAC Name,Name,Molecular formula,SMILE,solvent,SRP (V),비고,neutral
+46,"iron(2+);1,10-phenanthroline",ortho-Phenanthroline,C36H24FeN6+2,C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.[Fe+2],water,1.147,product,
+47,"iron(2+);1,10-phenanthroline",ortho-Phenanthroline,C36H24FeN6+2,C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.[Fe+2],1 M H2SO4,1.06,product,
+32,"1,10-phenanthroline;ruthenium(2+)","Tris(1,10-phenanthroline)ruthenium(2+)",C36H24N6Ru+2,C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.[Ru+2],MeCN,1.62,product,
+54,"1,10-phenanthroline;ruthenium(2+)","Tris(1,10-phenanthroline)ruthenium(2+)",C36H24N6Ru+2,C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.[Ru+2],water,0.21,product,32번과 구조 동일
+15,iron(2+);2-pyridin-2-ylpyridine,"tris(2,2'-bipyridine)iron(II)","C30H24FeN6+2",C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Fe+2],MeCN,1.41,product,
+45,iron(2+);2-pyridin-2-ylpyridine,"tris(2,2'-bipyridine)iron(II)","C30H24FeN6+2",C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Fe+2],water,1.03,product,15번과 구조 동일
+39,2-pyridin-2-ylpyridine;ruthenium(2+),"Tris(2,2'-bipyridyl)ruthenium(II)",C30H24N6Ru+2,C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Ru+2],MeCN,2.55,product,
+51,2-pyridin-2-ylpyridine;ruthenium,"Tris(2,2'-bipyridyl)ruthenium(II)",C30H24N6Ru+2,C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Ru+2],water,1.24,product,39번과 구조 동일
+5,,"bis(eta5-2,4-cyclopentadien-1-yl)-",C10H10Fe,C1=C[CH]C=C1.C1=C[CH]C=C1.[Fe],MeCN,0.16,product,
+6,,"bis(eta5-2,4-cyclopentadien-1-yl)-",C10H10Fe,C1=C[CH]C=C1.C1=C[CH]C=C1.[Fe],CH2Cl2,0.27,product,

@@ -1,0 +1,97 @@
+IUPAC Name,SMILE,solvent,type,SRP
+l-alanyl-l-tyrosine,C[C@@H](C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O)N,H2O,neutral,0.85
+(2R)-2-amino-3-sulfanylpropanoic acid,C([C@@H](C(=O)O)N)S,H2O,neutral,0.11
+5-nitrofuran-2-carboxylic acid,C1=C(OC(=C1)[N+](=O)[O-])C(=O)O,H2O,neutral,-0.317
+,C1=CC=C(C=C1CN)[CH2],CH3CN,radical,1.35
+,C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)CC#[S]N=O,H2O,neutral,-0.371
+4-(1-methylpyridin-4-ylidene)pyridin-1-ium 1-oxide,C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)[O-],H2O,neutral,-0.49
+"7,10-diazoniatricyclo[8.4.0.02,7]tetradeca-1(14),2,4,6,10,12-hexaene",C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31,H2O,neutral,-0.358
+"5,12-dimethyl-7,10-diazoniatricyclo[8.4.0.02,7]tetradeca-1(10),2(7),3,5,11,13-hexaene",CC1=C[N+]2=C(C=C1)C3=[N+](CC2)C=C(C=C3)C,H2O,neutral,-0.479
+2-(5-iodo-4-nitroimidazol-1-yl)-N-[(1-oxidopyridin-1-ium-3-yl)methyl]acetamide,C1=CC(=C[N+](=C1)[O-])CNC(=O)CN2C=NC(=C2I)[N+](=O)[O-],H2O,neutral,-0.465
+(4-chlorophenyl) 3-methyl-5-nitroimidazole-4-sulfonate,CN1C=NC(=C1S(=O)(=O)OC2=CC=C(C=C2)Cl)[N+](=O)[O-],H2O,neutral,-0.345
+,CCC[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)CCC(=O)OC,H2O,neutral,-0.408
+,CC[N+]1=CC=C(C=C1)C2=CC(=[N+](C=C2)CC)C,H2O,neutral,-0.51
+4-(2-cyano-1-methylpyridin-1-ium-4-yl)-1-methylpyridin-1-ium-2-carbonitrile,C[N+]1=C(C=C(C=C1)C2=CC(=[N+](C=C2)C)C#N)C#N,H2O,neutral,0.09
+"(5,8-dioxonaphthalen-2-yl)methyl N-methylcarbamate",CNC(=O)OCC1=CC2=C(C=C1)C(=O)C=CC2=O,H2O,neutral,-0.099
+"6,8-bis(sulfanyl)octanamide",C(CCC(=O)N)CC(CCS)S,H2O,neutral,1.7
+1-methyl-4-nitro-5-phenylsulfanylimidazole,CN1C=NC(=C1SC2=CC=CC=C2)[N+](=O)[O-],H2O,neutral,-0.501
+"4,16-diazoniapentacyclo[12.8.0.02,11.04,9.016,21]docosa-1(22),2,4,6,8,10,12,14,16,18,20-undecaene",C1=CC=[N+]2C=C3C(=CC2=C1)C=CC4=C[N+]5=CC=CC=C5C=C43,H2O,neutral,-0.228
+3-methyl-2-nitroimidazole-4-carboxylate,CN1C(=CN=C1[N+](=O)[O-])C(=O)[O-],H2O,neutral,-0.385
+"1-methyl-2,5-dinitroimidazole",CN1C(=CN=C1[N+](=O)[O-])[N+](=O)[O-],H2O,neutral,-0.178
+"2-(2,4-dinitroimidazol-1-yl)ethanol",C1=C(N=C(N1CCO)[N+](=O)[O-])[N+](=O)[O-],H2O,neutral,-0.238
+,C12=CC=CC=C1C3C([C]2O)C=CC=C3,CH3CN,radical,0.62
+methanidyloxymethane,CO[CH2-],CH3CN,anion,-1.06
+,CC1COCC(C)N1C(=O)C[N+]2=CC=C(C=C2)C3=CC=[N+](C=C3)C,H2O,neutral,-0.374
+"2,3-dimethylnaphthalene-1,4-dione",CC1=C(C(=O)C2=CC=CC=C2C1=O)C,H2O,neutral,-0.24
+,C[C](C)C,CH3CN,radical,0.35
+"(2R,3S)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol",C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,H2O,neutral,0.079
+,CCOC(=O)C(C#N)[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C,H2O,neutral,-0.287
+,[CH2-]C1=CC=C(C=C1)F,CH3CN,anion,-1.26
+"(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-3-(3-methyl-1,4-dioxonaphthalen-2-yl)sulfanyl-1-oxopropan-2-yl]amino]-5-oxopentanoic acid",CC1=C(C(=O)C2=CC=CC=C2C1=O)SC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N,H2O,neutral,-0.192
+3-methyl-5-nitro-N-phenylimidazole-4-sulfonamide,CN1C=NC(=C1S(=O)(=O)NC2=CC=CC=C2)[N+](=O)[O-],H2O,neutral,-0.398
+2-[4-[1-(cyanomethyl)pyridin-1-ium-4-yl]pyridin-1-ium-1-yl]acetonitrile,C1=C[N+](=CC=C1C2=CC=[N+](C=C2)CC#N)CC#N,H2O,neutral,-0.15
+"1,4-dihydroxy-5-[2-(2-hydroxyethylamino)ethylamino]-8-[2-(propylamino)ethylamino]anthracene-9,10-dione",CCCNCCNC1=C2C(=C(C=C1)NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O,H2O,neutral,-0.527
+,C2(C1=C3[N](C(=C1C(C=C2)=O)C)CCC3)=O,H2O,neutral,-0.438
+"3,14-dimethyl-7,10-diazoniatricyclo[8.4.0.02,7]tetradeca-1(14),2,4,6,10,12-hexaene",CC1=C2C3=C(C=CC=[N+]3CC[N+]2=CC=C1)C,H2O,neutral,-0.58
+"2-methyl-3-[(E,7R,11R)-3,7,11,15-tetramethylhexadec-2-enyl]naphthalene-1,4-dione",CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\C)/CCC[C@H](C)CCC[C@H](C)CCCC(C)C,H2O,neutral,-0.17
+"7,9-dihydro-3H-purine-2,6,8-trione",C12=C(NC(=O)N1)NC(=O)NC2=O,H2O,neutral,0.26
+"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol",C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,H2O,neutral,0.048
+,O=[N](=O)C1=NC=C[N]1CCNC2=CC=CC=C2,H2O,neutral,-0.398
+3-[4-[1-(3-sulfonatopropyl)pyridin-1-ium-4-yl]pyridin-1-ium-1-yl]propane-1-sulfonate,C1=C[N+](=CC=C1C2=CC=[N+](C=C2)CCCS(=O)(=O)[O-])CCCS(=O)(=O)[O-],H2O,neutral,-0.38
+,CO[CH2],CH3CN,radical,0.0
+phenyl 3-methyl-5-nitroimidazole-4-sulfonate,CN1C=NC(=C1S(=O)(=O)OC2=CC=CC=C2)[N+](=O)[O-],H2O,neutral,-0.342
+"2-(2,5-dihydroxyphenyl)acetic acid",C1=CC(=C(C=C1O)CC(=O)O)O,H2O,neutral,-0.05
+"1,2,6-trimethyl-4-(1,2,6-trimethylpyridin-1-ium-4-yl)pyridin-1-ium",CC1=CC(=CC(=[N+]1C)C)C2=CC(=[N+](C(=C2)C)C)C,H2O,neutral,-0.64
+2-[4-[1-(2-hydroxyethyl)pyridin-1-ium-4-yl]pyridin-1-ium-1-yl]ethanol,C1=C[N+](=CC=C1C2=CC=[N+](C=C2)CCO)CCO,H2O,neutral,-0.403
+1-(2-nitroimidazol-1-yl)-3-piperidin-1-ylpropan-2-ol,C1CCN(CC1)CC(CN2C=CN=C2[N+](=O)[O-])O,H2O,neutral,-0.346
+4-[2-(4-nitroimidazol-1-yl)ethyl]morpholine,C1COCCN1CCN2C=C(N=C2)[N+](=O)[O-],H2O,neutral,-0.554
+,CCOCC[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)CCOCC,H2O,neutral,-0.386
+1-[bis(2-hydroxyethyl)amino]-3-(2-nitroimidazol-1-yl)propan-2-ol,C1=CN(C(=N1)[N+](=O)[O-])CC(CN(CCO)CCO)O,H2O,neutral,-0.369
+2-nitro-1H-benzimidazole,C1=CC=C2C(=C1)NC(=N2)[N+](=O)[O-],H2O,neutral,-0.3
+1-ethyl-4-(1-ethylpyridin-1-ium-4-yl)pyridin-1-ium,CC[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)CC,H2O,neutral,-0.455
+"5-hydroxynaphthalene-1,4-dione",C1=CC2=C(C(=O)C=CC2=O)C(=C1)O,H2O,neutral,-0.093
+3-methyl-10H-phenothiazine,CC1=CC2=C(C=C1)NC3=CC=CC=C3S2,H2O,neutral,0.651
+"N-(3-morpholin-4-ylpropyl)-2-(3-nitropyrrolo[2,3-b]pyridin-1-yl)acetamide",C1COCCN1CCCNC(=O)CN2C=C(C3=C2N=CC=C3)[N+](=O)[O-],H2O,neutral,-0.532
+10-[2-(1-methylpiperidin-2-yl)ethyl]-2-methylsulfanylphenothiazine,CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)SC,H2O,neutral,0.794
+"8,13-diphenyl-1,5-diazoniatetracyclo[7.6.2.05,17.012,16]heptadeca-1(16),5(17),6,8,10,12,14-heptaene",C1C[N+]2=C3C(=C(C=C2)C4=CC=CC=C4)C=CC5=C(C=C[N+](=C53)C1)C6=CC=CC=C6,H2O,neutral,-0.31
+,C1(=C[N+]3=C(C=C1)C2=[N+](C=CC=C2)CC3)OCC,H2O,neutral,-0.44
+"2-methylcyclohexa-2,5-diene-1,4-dione",CC1=CC(=O)C=CC1=O,H2O,neutral,0.023
+"6-(bromomethyl)naphthalene-1,4-dione",C1=CC2=C(C=C1CBr)C(=O)C=CC2=O,H2O,neutral,-0.092
+"5-nitro-1H-pyrimidine-2,4-dione",C1=C(C(=O)NC(=O)N1)[N+](=O)[O-],H2O,neutral,-0.527
+"2,4-dinitro-1H-pyrrole",C1=C(NC=C1[N+](=O)[O-])[N+](=O)[O-],H2O,neutral,-0.445
+,COSC1=NC=C([N+]([O-])=O)[N]1C,H2O,neutral,-0.361
+"1,4-bis[(2-hydroxyethyl-amino)ethyl]amino-9,10-anthraquinone diacetate",C1=CC=C2C(=C1)C(=O)C3=C(C=CC(=C3C2=O)NCCNCCOC(=O)O)NCCNCCOC(=O)O,H2O,neutral,-0.348
+2-[4-[1-(carboxymethyl)pyridin-1-ium-4-yl]pyridin-1-ium-1-yl]acetic acid,C1=C[N+](=CC=C1C2=CC=[N+](C=C2)CC(=O)O)CC(=O)O,H2O,neutral,-0.444
+1-methylpyridin-1-ium-4-carboxamide,C[N+]1=CC=C(C=C1)C(=O)N,H2O,neutral,-0.77
+"1,3-dinitrobenzene",C1=CC(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-],H2O,neutral,-0.345
+2-[4-(1-methylpyridin-1-ium-4-yl)pyridin-1-ium-1-yl]ethanol,C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)CCO,H2O,neutral,-0.422
+"2,3-dimethylcyclohexa-2,5-diene-1,4-dione",CC1=C(C(=O)C=CC1=O)C,H2O,neutral,-0.074
+"5,8-dihydroxy-9,10-dioxoanthracene-2-sulfonate",C1=CC2=C(C=C1S(=O)(=O)[O-])C(=O)C3=C(C=CC(=C3C2=O)O)O,H2O,neutral,-0.249
+methyl sulfate;trimethyl(1-phenothiazin-10-ylpropan-2-yl)azanium,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)[N+](C)(C)C.COS(=O)(=O)[O-],H2O,neutral,0.861
+"1-(3,5-dimethylmorpholin-4-yl)-2-[4-[1-[2-(3,5-dimethylmorpholin-4-yl)-2-oxoethyl]pyridin-1-ium-4-yl]pyridin-1-ium-1-yl]ethanone",CC1COCC(N1C(=O)C[N+]2=CC=C(C=C2)C3=CC=[N+](C=C3)CC(=O)N4C(COCC4C)C)C,H2O,neutral,-0.291
+"2-(methoxymethyl)naphthalene-1,4-dione",COCC1=CC(=O)C2=CC=CC=C2C1=O,H2O,neutral,-0.129
+,C1=CN=C([N]1CCOC(C)=O)[N+](=O)[O-],H2O,neutral,-0.42
+"2-methyl-3-[(E)-3,7,11,15-tetramethylhexadec-2-enyl]naphthalene-1,4-dione",CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\C)/CCCC(C)CCCC(C)CCCC(C)C,H2O,neutral,0.022
+,C1=C(C=CC=C1[CH2])C,CH3CN,radical,0.91
+1-(4-methylpiperazin-1-yl)-3-(2-nitroimidazol-1-yl)propan-2-ol,CN1CCN(CC1)CC(CN2C=CN=C2[N+](=O)[O-])O,H2O,neutral,-0.37
+10-(n-methyl-3-piperidinyl)-methylphenothiazine,C1=CC3=C(C=C1)N(C2=C(C=CC=C2)S3)CC4CN(CCC4)C,H2O,neutral,0.783
+,C1(=CC=C(C=C1)[CH2-])C,CH3CN,anion,-1.38
+,C1=C([N+]3=C(C=C1)C2=[N+](C(=CC=C2)C)CC3)C,H2O,neutral,-0.48
+,CCOC(=O)C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C,H2O,neutral,-0.362
+,CC1=C(C=CC(=C1C)O)O,H2O,neutral,0.385
+propan-2-ylbenzene,C[C-](C)C1=CC=CC=C1,CH3CN,anion,-1.49
+4-[11-(2-nitroimidazol-1-yl)undecyl]morpholine,C1COCCN1CCCCCCCCCCCN2C=CN=C2[N+](=O)[O-],H2O,neutral,-0.403
+phenylmethylbenzene,C1=CC=C(C=C1)[CH-]C2=CC=CC=C2,CH3CN,anion,-0.9
+,C12=[S]3ON=C1C[S](CC2=NO3)=O,H2O,neutral,-0.277
+tyrosine,C1=CC(=CC=C1C[C@@H](C(=O)O)N)O,H2O,neutral,0.64
+iron(2+);2-pyridin-2-ylpyridine,C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Fe+2],H2O,neutral,1.03
+"1,2-dimethyl-4-nitroimidazole",CC1=NC(=CN1C)[N+](=O)[O-],H2O,neutral,-0.542
+6-(4-methyl-2-nitroimidazol-1-yl)sulfanyl-7H-purin-2-amine,CC1=CN(C(=N1)[N+](=O)[O-])SC2=NC(=NC3=C2NC=N3)N,H2O,neutral,-0.49
+,CC2=C(C=[N+]1CCCC[N+]3=C(C1=C2)C=C(C)C(=C3)C)C,H2O,neutral,-0.832
+"1-[(1-hydroxy-2,2,6,6-tetramethylpiperidin-4-yl)amino]-3-(2-nitroimidazol-1-yl)propan-2-ol",CC1(CC(CC(N1O)(C)C)NCC(CN2C=CN=C2[N+](=O)[O-])O)C,H2O,neutral,-0.355
+5-bromo-1-methyl-4-nitroimidazole,CN1C=NC(=C1Br)[N+](=O)[O-],H2O,neutral,-0.523
+,CC1=CC(=CC=C1)[CH2-],CH3CN,anion,-1.26
+"(1,4-dioxonaphthalen-2-yl)methyl N-(2-chloroethyl)carbamate",C1=CC=C2C(=C1)C(=O)C=C(C2=O)COC(=O)NCCCl,H2O,neutral,-0.122
+"5-nitro-2,3-dihydroimidazo[2,1-b][1,3]thiazole 1,1-dioxide",C1CS(=O)(=O)C2=NC=C(N21)[N+](=O)[O-],H2O,neutral,-0.342
+"2,6-dichloro-4-(3,5-dichloro-4-oxocyclohexa-2,5-dien-1-ylidene)cyclohexa-2,5-dien-1-one",C1=C(C(=O)C(=CC1=C2C=C(C(=O)C(=C2)Cl)Cl)Cl)Cl,H2O,neutral,0.26
+"8-methyl-2,3-dihydro-1H-pyrrolo[2,1-a]isoindole-6,9-dione",CC1=CC(=O)C2=CN3CCCC3=C2C1=O,H2O,neutral,-0.42
